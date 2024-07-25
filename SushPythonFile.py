@@ -1,1 +1,1 @@
-print('Hello Sush, Welcome to NODE1')
+print('Hello Sush, Welcome to Master')
